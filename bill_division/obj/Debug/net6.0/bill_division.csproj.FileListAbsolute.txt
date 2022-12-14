@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/bin/Debug/net6.0/bill_division
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/bin/Debug/net6.0/bill_division.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/bin/Debug/net6.0/bill_division.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/bin/Debug/net6.0/bill_division.dll
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/bin/Debug/net6.0/ref/bill_division.dll
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/bin/Debug/net6.0/bill_division.pdb
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/obj/Debug/net6.0/bill_division.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/obj/Debug/net6.0/bill_division.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/obj/Debug/net6.0/bill_division.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/obj/Debug/net6.0/bill_division.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/obj/Debug/net6.0/bill_division.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/obj/Debug/net6.0/bill_division.dll
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/obj/Debug/net6.0/ref/bill_division.dll
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/obj/Debug/net6.0/bill_division.pdb
+/Users/muratarslan/Development/Interview/hackerrank/bill_division/obj/Debug/net6.0/bill_division.genruntimeconfig.cache

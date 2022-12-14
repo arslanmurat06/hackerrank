@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/bin/Debug/net6.0/hurdle_race
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/bin/Debug/net6.0/hurdle_race.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/bin/Debug/net6.0/hurdle_race.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/bin/Debug/net6.0/hurdle_race.dll
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/bin/Debug/net6.0/ref/hurdle_race.dll
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/bin/Debug/net6.0/hurdle_race.pdb
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/obj/Debug/net6.0/hurdle_race.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/obj/Debug/net6.0/hurdle_race.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/obj/Debug/net6.0/hurdle_race.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/obj/Debug/net6.0/hurdle_race.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/obj/Debug/net6.0/hurdle_race.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/obj/Debug/net6.0/hurdle_race.dll
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/obj/Debug/net6.0/ref/hurdle_race.dll
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/obj/Debug/net6.0/hurdle_race.pdb
+/Users/muratarslan/Development/Interview/hackerrank/hurdle_race/obj/Debug/net6.0/hurdle_race.genruntimeconfig.cache

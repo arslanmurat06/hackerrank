@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/obj/Debug/net6.0/beautiful_day.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/obj/Debug/net6.0/beautiful_day.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/obj/Debug/net6.0/beautiful_day.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/obj/Debug/net6.0/beautiful_day.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/obj/Debug/net6.0/beautiful_day.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/bin/Debug/net6.0/beautiful_day
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/bin/Debug/net6.0/beautiful_day.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/bin/Debug/net6.0/beautiful_day.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/bin/Debug/net6.0/beautiful_day.dll
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/bin/Debug/net6.0/ref/beautiful_day.dll
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/bin/Debug/net6.0/beautiful_day.pdb
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/obj/Debug/net6.0/beautiful_day.dll
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/obj/Debug/net6.0/ref/beautiful_day.dll
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/obj/Debug/net6.0/beautiful_day.pdb
+/Users/muratarslan/Development/Interview/hackerrank/beautiful_day/obj/Debug/net6.0/beautiful_day.genruntimeconfig.cache

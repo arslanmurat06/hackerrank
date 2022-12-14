@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cats_mouse/1.0.0": {
+        "runtime": {
+          "cats_mouse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cats_mouse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

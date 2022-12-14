@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/bin/Debug/net6.0/drawing_book
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/bin/Debug/net6.0/drawing_book.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/bin/Debug/net6.0/drawing_book.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/bin/Debug/net6.0/drawing_book.dll
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/bin/Debug/net6.0/ref/drawing_book.dll
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/bin/Debug/net6.0/drawing_book.pdb
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/obj/Debug/net6.0/drawing_book.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/obj/Debug/net6.0/drawing_book.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/obj/Debug/net6.0/drawing_book.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/obj/Debug/net6.0/drawing_book.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/obj/Debug/net6.0/drawing_book.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/obj/Debug/net6.0/drawing_book.dll
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/obj/Debug/net6.0/ref/drawing_book.dll
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/obj/Debug/net6.0/drawing_book.pdb
+/Users/muratarslan/Development/Interview/hackerrank/drawing_book/obj/Debug/net6.0/drawing_book.genruntimeconfig.cache

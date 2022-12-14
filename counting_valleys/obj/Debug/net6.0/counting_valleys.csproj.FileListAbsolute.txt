@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/bin/Debug/net6.0/counting_valleys
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/bin/Debug/net6.0/counting_valleys.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/bin/Debug/net6.0/counting_valleys.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/bin/Debug/net6.0/counting_valleys.dll
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/bin/Debug/net6.0/ref/counting_valleys.dll
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/bin/Debug/net6.0/counting_valleys.pdb
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/obj/Debug/net6.0/counting_valleys.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/obj/Debug/net6.0/counting_valleys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/obj/Debug/net6.0/counting_valleys.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/obj/Debug/net6.0/counting_valleys.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/obj/Debug/net6.0/counting_valleys.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/obj/Debug/net6.0/counting_valleys.dll
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/obj/Debug/net6.0/ref/counting_valleys.dll
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/obj/Debug/net6.0/counting_valleys.pdb
+/Users/muratarslan/Development/Interview/hackerrank/counting_valleys/obj/Debug/net6.0/counting_valleys.genruntimeconfig.cache

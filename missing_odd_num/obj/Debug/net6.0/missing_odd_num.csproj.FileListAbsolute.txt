@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/bin/Debug/net6.0/missing_odd_num
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/bin/Debug/net6.0/missing_odd_num.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/bin/Debug/net6.0/missing_odd_num.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/bin/Debug/net6.0/missing_odd_num.dll
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/bin/Debug/net6.0/ref/missing_odd_num.dll
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/bin/Debug/net6.0/missing_odd_num.pdb
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/obj/Debug/net6.0/missing_odd_num.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/obj/Debug/net6.0/missing_odd_num.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/obj/Debug/net6.0/missing_odd_num.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/obj/Debug/net6.0/missing_odd_num.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/obj/Debug/net6.0/missing_odd_num.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/obj/Debug/net6.0/missing_odd_num.dll
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/obj/Debug/net6.0/ref/missing_odd_num.dll
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/obj/Debug/net6.0/missing_odd_num.pdb
+/Users/muratarslan/Development/Interview/hackerrank/missing_odd_num/obj/Debug/net6.0/missing_odd_num.genruntimeconfig.cache

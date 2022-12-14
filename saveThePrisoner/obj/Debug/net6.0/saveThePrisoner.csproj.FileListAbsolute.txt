@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/bin/Debug/net6.0/saveThePrisoner
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/bin/Debug/net6.0/saveThePrisoner.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/bin/Debug/net6.0/saveThePrisoner.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/bin/Debug/net6.0/saveThePrisoner.dll
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/bin/Debug/net6.0/ref/saveThePrisoner.dll
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/bin/Debug/net6.0/saveThePrisoner.pdb
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/obj/Debug/net6.0/saveThePrisoner.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/obj/Debug/net6.0/saveThePrisoner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/obj/Debug/net6.0/saveThePrisoner.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/obj/Debug/net6.0/saveThePrisoner.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/obj/Debug/net6.0/saveThePrisoner.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/obj/Debug/net6.0/saveThePrisoner.dll
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/obj/Debug/net6.0/ref/saveThePrisoner.dll
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/obj/Debug/net6.0/saveThePrisoner.pdb
+/Users/muratarslan/Development/Interview/hackerrank/saveThePrisoner/obj/Debug/net6.0/saveThePrisoner.genruntimeconfig.cache

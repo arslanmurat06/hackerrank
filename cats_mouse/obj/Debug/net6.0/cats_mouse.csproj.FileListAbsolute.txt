@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/bin/Debug/net6.0/cats_mouse
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/bin/Debug/net6.0/cats_mouse.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/bin/Debug/net6.0/cats_mouse.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/bin/Debug/net6.0/cats_mouse.dll
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/bin/Debug/net6.0/ref/cats_mouse.dll
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/bin/Debug/net6.0/cats_mouse.pdb
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/obj/Debug/net6.0/cats_mouse.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/obj/Debug/net6.0/cats_mouse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/obj/Debug/net6.0/cats_mouse.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/obj/Debug/net6.0/cats_mouse.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/obj/Debug/net6.0/cats_mouse.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/obj/Debug/net6.0/cats_mouse.dll
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/obj/Debug/net6.0/ref/cats_mouse.dll
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/obj/Debug/net6.0/cats_mouse.pdb
+/Users/muratarslan/Development/Interview/hackerrank/cats_mouse/obj/Debug/net6.0/cats_mouse.genruntimeconfig.cache

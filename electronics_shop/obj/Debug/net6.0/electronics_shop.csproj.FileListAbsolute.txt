@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/bin/Debug/net6.0/electronics_shop
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/bin/Debug/net6.0/electronics_shop.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/bin/Debug/net6.0/electronics_shop.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/bin/Debug/net6.0/electronics_shop.dll
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/bin/Debug/net6.0/ref/electronics_shop.dll
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/bin/Debug/net6.0/electronics_shop.pdb
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/obj/Debug/net6.0/electronics_shop.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/obj/Debug/net6.0/electronics_shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/obj/Debug/net6.0/electronics_shop.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/obj/Debug/net6.0/electronics_shop.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/obj/Debug/net6.0/electronics_shop.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/obj/Debug/net6.0/electronics_shop.dll
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/obj/Debug/net6.0/ref/electronics_shop.dll
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/obj/Debug/net6.0/electronics_shop.pdb
+/Users/muratarslan/Development/Interview/hackerrank/electronics_shop/obj/Debug/net6.0/electronics_shop.genruntimeconfig.cache

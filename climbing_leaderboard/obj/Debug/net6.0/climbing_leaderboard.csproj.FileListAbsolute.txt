@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/obj/Debug/net6.0/climbing_leaderboard.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/obj/Debug/net6.0/climbing_leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/obj/Debug/net6.0/climbing_leaderboard.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/obj/Debug/net6.0/climbing_leaderboard.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/obj/Debug/net6.0/climbing_leaderboard.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/bin/Debug/net6.0/climbing_leaderboard
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/bin/Debug/net6.0/climbing_leaderboard.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/bin/Debug/net6.0/climbing_leaderboard.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/bin/Debug/net6.0/climbing_leaderboard.dll
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/bin/Debug/net6.0/ref/climbing_leaderboard.dll
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/bin/Debug/net6.0/climbing_leaderboard.pdb
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/obj/Debug/net6.0/climbing_leaderboard.dll
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/obj/Debug/net6.0/ref/climbing_leaderboard.dll
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/obj/Debug/net6.0/climbing_leaderboard.pdb
+/Users/muratarslan/Development/Interview/hackerrank/climbing_leaderboard/obj/Debug/net6.0/climbing_leaderboard.genruntimeconfig.cache

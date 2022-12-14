@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/bin/Debug/net6.0/picking_numbers
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/bin/Debug/net6.0/picking_numbers.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/bin/Debug/net6.0/picking_numbers.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/bin/Debug/net6.0/picking_numbers.dll
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/bin/Debug/net6.0/ref/picking_numbers.dll
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/bin/Debug/net6.0/picking_numbers.pdb
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/obj/Debug/net6.0/picking_numbers.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/obj/Debug/net6.0/picking_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/obj/Debug/net6.0/picking_numbers.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/obj/Debug/net6.0/picking_numbers.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/obj/Debug/net6.0/picking_numbers.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/obj/Debug/net6.0/picking_numbers.dll
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/obj/Debug/net6.0/ref/picking_numbers.dll
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/obj/Debug/net6.0/picking_numbers.pdb
+/Users/muratarslan/Development/Interview/hackerrank/picking_numbers/obj/Debug/net6.0/picking_numbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/bin/Debug/net6.0/sales_by_match
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/bin/Debug/net6.0/sales_by_match.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/bin/Debug/net6.0/sales_by_match.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/bin/Debug/net6.0/sales_by_match.dll
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/bin/Debug/net6.0/ref/sales_by_match.dll
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/bin/Debug/net6.0/sales_by_match.pdb
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/obj/Debug/net6.0/sales_by_match.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/obj/Debug/net6.0/sales_by_match.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/obj/Debug/net6.0/sales_by_match.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/obj/Debug/net6.0/sales_by_match.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/obj/Debug/net6.0/sales_by_match.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/obj/Debug/net6.0/sales_by_match.dll
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/obj/Debug/net6.0/ref/sales_by_match.dll
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/obj/Debug/net6.0/sales_by_match.pdb
+/Users/muratarslan/Development/Interview/hackerrank/sales_by_match/obj/Debug/net6.0/sales_by_match.genruntimeconfig.cache

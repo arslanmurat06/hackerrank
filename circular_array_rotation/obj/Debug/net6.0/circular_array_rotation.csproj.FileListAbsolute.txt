@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/bin/Debug/net6.0/circular_array_rotation
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/bin/Debug/net6.0/circular_array_rotation.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/bin/Debug/net6.0/circular_array_rotation.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/bin/Debug/net6.0/circular_array_rotation.dll
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/bin/Debug/net6.0/ref/circular_array_rotation.dll
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/bin/Debug/net6.0/circular_array_rotation.pdb
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/obj/Debug/net6.0/circular_array_rotation.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/obj/Debug/net6.0/circular_array_rotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/obj/Debug/net6.0/circular_array_rotation.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/obj/Debug/net6.0/circular_array_rotation.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/obj/Debug/net6.0/circular_array_rotation.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/obj/Debug/net6.0/circular_array_rotation.dll
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/obj/Debug/net6.0/ref/circular_array_rotation.dll
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/obj/Debug/net6.0/circular_array_rotation.pdb
+/Users/muratarslan/Development/Interview/hackerrank/circular_array_rotation/obj/Debug/net6.0/circular_array_rotation.genruntimeconfig.cache

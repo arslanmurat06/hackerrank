@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/bin/Debug/net6.0/sequence_equation
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/bin/Debug/net6.0/sequence_equation.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/bin/Debug/net6.0/sequence_equation.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/bin/Debug/net6.0/sequence_equation.dll
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/bin/Debug/net6.0/ref/sequence_equation.dll
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/bin/Debug/net6.0/sequence_equation.pdb
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/obj/Debug/net6.0/sequence_equation.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/obj/Debug/net6.0/sequence_equation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/obj/Debug/net6.0/sequence_equation.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/obj/Debug/net6.0/sequence_equation.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/obj/Debug/net6.0/sequence_equation.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/obj/Debug/net6.0/sequence_equation.dll
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/obj/Debug/net6.0/ref/sequence_equation.dll
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/obj/Debug/net6.0/sequence_equation.pdb
+/Users/muratarslan/Development/Interview/hackerrank/sequence_equation/obj/Debug/net6.0/sequence_equation.genruntimeconfig.cache

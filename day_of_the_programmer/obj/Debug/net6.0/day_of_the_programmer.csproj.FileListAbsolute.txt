@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/bin/Debug/net6.0/day_of_the_programmer
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/bin/Debug/net6.0/day_of_the_programmer.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/bin/Debug/net6.0/day_of_the_programmer.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/bin/Debug/net6.0/day_of_the_programmer.dll
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/bin/Debug/net6.0/ref/day_of_the_programmer.dll
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/bin/Debug/net6.0/day_of_the_programmer.pdb
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/obj/Debug/net6.0/day_of_the_programmer.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/obj/Debug/net6.0/day_of_the_programmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/obj/Debug/net6.0/day_of_the_programmer.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/obj/Debug/net6.0/day_of_the_programmer.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/obj/Debug/net6.0/day_of_the_programmer.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/obj/Debug/net6.0/day_of_the_programmer.dll
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/obj/Debug/net6.0/ref/day_of_the_programmer.dll
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/obj/Debug/net6.0/day_of_the_programmer.pdb
+/Users/muratarslan/Development/Interview/hackerrank/day_of_the_programmer/obj/Debug/net6.0/day_of_the_programmer.genruntimeconfig.cache

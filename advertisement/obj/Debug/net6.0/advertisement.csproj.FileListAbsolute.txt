@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/bin/Debug/net6.0/advertisement
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/bin/Debug/net6.0/advertisement.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/bin/Debug/net6.0/advertisement.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/bin/Debug/net6.0/advertisement.dll
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/bin/Debug/net6.0/ref/advertisement.dll
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/bin/Debug/net6.0/advertisement.pdb
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/obj/Debug/net6.0/advertisement.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/obj/Debug/net6.0/advertisement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/obj/Debug/net6.0/advertisement.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/obj/Debug/net6.0/advertisement.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/obj/Debug/net6.0/advertisement.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/obj/Debug/net6.0/advertisement.dll
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/obj/Debug/net6.0/ref/advertisement.dll
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/obj/Debug/net6.0/advertisement.pdb
+/Users/muratarslan/Development/Interview/hackerrank/advertisement/obj/Debug/net6.0/advertisement.genruntimeconfig.cache

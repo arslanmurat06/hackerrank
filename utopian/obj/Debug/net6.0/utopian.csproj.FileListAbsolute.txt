@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/utopian/bin/Debug/net6.0/utopian
+/Users/muratarslan/Development/Interview/hackerrank/utopian/bin/Debug/net6.0/utopian.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/utopian/bin/Debug/net6.0/utopian.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/utopian/bin/Debug/net6.0/utopian.dll
+/Users/muratarslan/Development/Interview/hackerrank/utopian/bin/Debug/net6.0/ref/utopian.dll
+/Users/muratarslan/Development/Interview/hackerrank/utopian/bin/Debug/net6.0/utopian.pdb
+/Users/muratarslan/Development/Interview/hackerrank/utopian/obj/Debug/net6.0/utopian.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/utopian/obj/Debug/net6.0/utopian.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/utopian/obj/Debug/net6.0/utopian.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/utopian/obj/Debug/net6.0/utopian.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/utopian/obj/Debug/net6.0/utopian.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/utopian/obj/Debug/net6.0/utopian.dll
+/Users/muratarslan/Development/Interview/hackerrank/utopian/obj/Debug/net6.0/ref/utopian.dll
+/Users/muratarslan/Development/Interview/hackerrank/utopian/obj/Debug/net6.0/utopian.pdb
+/Users/muratarslan/Development/Interview/hackerrank/utopian/obj/Debug/net6.0/utopian.genruntimeconfig.cache
