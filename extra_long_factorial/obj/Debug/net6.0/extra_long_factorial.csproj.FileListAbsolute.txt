@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/bin/Debug/net6.0/extra_long_factorial
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/bin/Debug/net6.0/extra_long_factorial.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/bin/Debug/net6.0/extra_long_factorial.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/bin/Debug/net6.0/extra_long_factorial.dll
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/bin/Debug/net6.0/ref/extra_long_factorial.dll
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/bin/Debug/net6.0/extra_long_factorial.pdb
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/obj/Debug/net6.0/extra_long_factorial.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/obj/Debug/net6.0/extra_long_factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/obj/Debug/net6.0/extra_long_factorial.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/obj/Debug/net6.0/extra_long_factorial.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/obj/Debug/net6.0/extra_long_factorial.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/obj/Debug/net6.0/extra_long_factorial.dll
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/obj/Debug/net6.0/ref/extra_long_factorial.dll
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/obj/Debug/net6.0/extra_long_factorial.pdb
+/Users/muratarslan/Development/Interview/hackerrank/extra_long_factorial/obj/Debug/net6.0/extra_long_factorial.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/bin/Debug/net6.0/append_delete
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/bin/Debug/net6.0/append_delete.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/bin/Debug/net6.0/append_delete.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/bin/Debug/net6.0/append_delete.dll
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/bin/Debug/net6.0/ref/append_delete.dll
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/bin/Debug/net6.0/append_delete.pdb
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/obj/Debug/net6.0/append_delete.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/obj/Debug/net6.0/append_delete.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/obj/Debug/net6.0/append_delete.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/obj/Debug/net6.0/append_delete.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/obj/Debug/net6.0/append_delete.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/obj/Debug/net6.0/append_delete.dll
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/obj/Debug/net6.0/ref/append_delete.dll
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/obj/Debug/net6.0/append_delete.pdb
+/Users/muratarslan/Development/Interview/hackerrank/append_delete/obj/Debug/net6.0/append_delete.genruntimeconfig.cache

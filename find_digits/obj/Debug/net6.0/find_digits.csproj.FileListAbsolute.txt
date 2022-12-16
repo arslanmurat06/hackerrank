@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/bin/Debug/net6.0/find_digits
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/bin/Debug/net6.0/find_digits.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/bin/Debug/net6.0/find_digits.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/bin/Debug/net6.0/find_digits.dll
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/bin/Debug/net6.0/ref/find_digits.dll
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/bin/Debug/net6.0/find_digits.pdb
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/obj/Debug/net6.0/find_digits.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/obj/Debug/net6.0/find_digits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/obj/Debug/net6.0/find_digits.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/obj/Debug/net6.0/find_digits.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/obj/Debug/net6.0/find_digits.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/obj/Debug/net6.0/find_digits.dll
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/obj/Debug/net6.0/ref/find_digits.dll
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/obj/Debug/net6.0/find_digits.pdb
+/Users/muratarslan/Development/Interview/hackerrank/find_digits/obj/Debug/net6.0/find_digits.genruntimeconfig.cache
