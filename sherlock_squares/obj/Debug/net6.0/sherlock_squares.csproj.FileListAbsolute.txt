@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/bin/Debug/net6.0/sherlock_squares
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/bin/Debug/net6.0/sherlock_squares.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/bin/Debug/net6.0/sherlock_squares.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/bin/Debug/net6.0/sherlock_squares.dll
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/bin/Debug/net6.0/ref/sherlock_squares.dll
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/bin/Debug/net6.0/sherlock_squares.pdb
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/obj/Debug/net6.0/sherlock_squares.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/obj/Debug/net6.0/sherlock_squares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/obj/Debug/net6.0/sherlock_squares.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/obj/Debug/net6.0/sherlock_squares.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/obj/Debug/net6.0/sherlock_squares.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/obj/Debug/net6.0/sherlock_squares.dll
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/obj/Debug/net6.0/ref/sherlock_squares.dll
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/obj/Debug/net6.0/sherlock_squares.pdb
+/Users/muratarslan/Development/Interview/hackerrank/sherlock_squares/obj/Debug/net6.0/sherlock_squares.genruntimeconfig.cache
