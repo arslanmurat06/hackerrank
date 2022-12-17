@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/bin/Debug/net6.0/library_fine
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/bin/Debug/net6.0/library_fine.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/bin/Debug/net6.0/library_fine.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/bin/Debug/net6.0/library_fine.dll
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/bin/Debug/net6.0/ref/library_fine.dll
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/bin/Debug/net6.0/library_fine.pdb
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/obj/Debug/net6.0/library_fine.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/obj/Debug/net6.0/library_fine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/obj/Debug/net6.0/library_fine.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/obj/Debug/net6.0/library_fine.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/obj/Debug/net6.0/library_fine.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/obj/Debug/net6.0/library_fine.dll
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/obj/Debug/net6.0/ref/library_fine.dll
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/obj/Debug/net6.0/library_fine.pdb
+/Users/muratarslan/Development/Interview/hackerrank/library_fine/obj/Debug/net6.0/library_fine.genruntimeconfig.cache
