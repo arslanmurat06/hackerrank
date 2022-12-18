@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cut_the_sticks/1.0.0": {
+        "runtime": {
+          "cut_the_sticks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cut_the_sticks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

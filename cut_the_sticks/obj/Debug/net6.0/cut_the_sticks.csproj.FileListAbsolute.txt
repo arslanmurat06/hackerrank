@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/bin/Debug/net6.0/cut_the_sticks
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/bin/Debug/net6.0/cut_the_sticks.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/bin/Debug/net6.0/cut_the_sticks.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/bin/Debug/net6.0/cut_the_sticks.dll
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/bin/Debug/net6.0/ref/cut_the_sticks.dll
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/bin/Debug/net6.0/cut_the_sticks.pdb
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/obj/Debug/net6.0/cut_the_sticks.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/obj/Debug/net6.0/cut_the_sticks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/obj/Debug/net6.0/cut_the_sticks.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/obj/Debug/net6.0/cut_the_sticks.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/obj/Debug/net6.0/cut_the_sticks.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/obj/Debug/net6.0/cut_the_sticks.dll
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/obj/Debug/net6.0/ref/cut_the_sticks.dll
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/obj/Debug/net6.0/cut_the_sticks.pdb
+/Users/muratarslan/Development/Interview/hackerrank/cut_the_sticks/obj/Debug/net6.0/cut_the_sticks.genruntimeconfig.cache
