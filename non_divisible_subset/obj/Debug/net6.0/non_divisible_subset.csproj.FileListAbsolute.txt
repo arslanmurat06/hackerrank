@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/bin/Debug/net6.0/non_divisible_subset
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/bin/Debug/net6.0/non_divisible_subset.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/bin/Debug/net6.0/non_divisible_subset.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/bin/Debug/net6.0/non_divisible_subset.dll
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/bin/Debug/net6.0/ref/non_divisible_subset.dll
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/bin/Debug/net6.0/non_divisible_subset.pdb
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/obj/Debug/net6.0/non_divisible_subset.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/obj/Debug/net6.0/non_divisible_subset.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/obj/Debug/net6.0/non_divisible_subset.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/obj/Debug/net6.0/non_divisible_subset.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/obj/Debug/net6.0/non_divisible_subset.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/obj/Debug/net6.0/non_divisible_subset.dll
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/obj/Debug/net6.0/ref/non_divisible_subset.dll
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/obj/Debug/net6.0/non_divisible_subset.pdb
+/Users/muratarslan/Development/Interview/hackerrank/non_divisible_subset/obj/Debug/net6.0/non_divisible_subset.genruntimeconfig.cache

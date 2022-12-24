@@ -7,7 +7,6 @@
 
     foreach (var num in arrList)
     {
-
         var count = arrList.Count();
         counts.Add(count);
         var minOne = arrList.Min();
