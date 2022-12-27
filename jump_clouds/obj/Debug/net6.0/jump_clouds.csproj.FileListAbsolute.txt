@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/bin/Debug/net6.0/jump_clouds
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/bin/Debug/net6.0/jump_clouds.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/bin/Debug/net6.0/jump_clouds.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/bin/Debug/net6.0/jump_clouds.dll
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/bin/Debug/net6.0/ref/jump_clouds.dll
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/bin/Debug/net6.0/jump_clouds.pdb
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/obj/Debug/net6.0/jump_clouds.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/obj/Debug/net6.0/jump_clouds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/obj/Debug/net6.0/jump_clouds.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/obj/Debug/net6.0/jump_clouds.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/obj/Debug/net6.0/jump_clouds.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/obj/Debug/net6.0/jump_clouds.dll
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/obj/Debug/net6.0/ref/jump_clouds.dll
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/obj/Debug/net6.0/jump_clouds.pdb
+/Users/muratarslan/Development/Interview/hackerrank/jump_clouds/obj/Debug/net6.0/jump_clouds.genruntimeconfig.cache
