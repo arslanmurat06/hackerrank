@@ -1,0 +1,15 @@
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/bin/Debug/net6.0/equalize_array
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/bin/Debug/net6.0/equalize_array.deps.json
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/bin/Debug/net6.0/equalize_array.runtimeconfig.json
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/bin/Debug/net6.0/equalize_array.dll
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/bin/Debug/net6.0/ref/equalize_array.dll
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/bin/Debug/net6.0/equalize_array.pdb
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/obj/Debug/net6.0/equalize_array.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/obj/Debug/net6.0/equalize_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/obj/Debug/net6.0/equalize_array.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/obj/Debug/net6.0/equalize_array.AssemblyInfo.cs
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/obj/Debug/net6.0/equalize_array.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/obj/Debug/net6.0/equalize_array.dll
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/obj/Debug/net6.0/ref/equalize_array.dll
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/obj/Debug/net6.0/equalize_array.pdb
+/Users/muratarslan/Development/Interview/hackerrank/equalize_array/obj/Debug/net6.0/equalize_array.genruntimeconfig.cache
